@@ -16,6 +16,7 @@
 		D53DADE42490C21C0034E252 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D53DADE22490C21C0034E252 /* LaunchScreen.storyboard */; };
 		D53DADEF2490C21C0034E252 /* TestDriveTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D53DADEE2490C21C0034E252 /* TestDriveTests.swift */; };
 		D53DADFA2490C21C0034E252 /* TestDriveUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D53DADF92490C21C0034E252 /* TestDriveUITests.swift */; };
+		D53DAE082490C47C0034E252 /* main1.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D53DAE072490C47C0034E252 /* main1.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D53DADF52490C21C0034E252 /* TestDriveUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestDriveUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D53DADF92490C21C0034E252 /* TestDriveUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestDriveUITests.swift; sourceTree = "<group>"; };
 		D53DADFB2490C21C0034E252 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D53DAE072490C47C0034E252 /* main1.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = main1.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				D53DADD62490C21A0034E252 /* SceneDelegate.swift */,
 				D53DADD82490C21A0034E252 /* ViewController.swift */,
 				D53DADDA2490C21A0034E252 /* Main.storyboard */,
+				D53DAE072490C47C0034E252 /* main1.storyboard */,
 				D53DADE02490C21C0034E252 /* Assets.xcassets */,
 				D53DADE22490C21C0034E252 /* LaunchScreen.storyboard */,
 				D53DADE52490C21C0034E252 /* Info.plist */,
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D53DADE42490C21C0034E252 /* LaunchScreen.storyboard in Resources */,
+				D53DAE082490C47C0034E252 /* main1.storyboard in Resources */,
 				D53DADE12490C21C0034E252 /* Assets.xcassets in Resources */,
 				D53DADDC2490C21A0034E252 /* Main.storyboard in Resources */,
 			);
