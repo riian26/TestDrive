@@ -107,11 +107,11 @@
 				D53DADD62490C21A0034E252 /* SceneDelegate.swift */,
 				D53DADD82490C21A0034E252 /* ViewController.swift */,
 				D53DADDA2490C21A0034E252 /* Main.storyboard */,
-				D53DAE072490C47C0034E252 /* main1.storyboard */,
+				D53DADDD2490C21A0034E252 /* TestDrive.xcdatamodeld */,
 				D53DADE02490C21C0034E252 /* Assets.xcassets */,
 				D53DADE22490C21C0034E252 /* LaunchScreen.storyboard */,
 				D53DADE52490C21C0034E252 /* Info.plist */,
-				D53DADDD2490C21A0034E252 /* TestDrive.xcdatamodeld */,
+				D53DAE072490C47C0034E252 /* main1.storyboard */,
 			);
 			path = TestDrive;
 			sourceTree = "<group>";
